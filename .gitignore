@@ -1,0 +1,24 @@
+# Everything the pipeline downloads or produces
+downloads/
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.mov
+*.mp4
+*.jpg
+*.webp
+
+# Build output (run `make` or ./setup.sh)
+downloader
+*.o
+
+# Python engines installed by setup.sh
+.venvs/
+__pycache__/
+
+# Runtime state
+.yt-dlp-checked
+
+# macOS
+.DS_Store
