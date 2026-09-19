@@ -47,6 +47,10 @@ The same tool also does plain audio, video and thumbnail downloads:
 
 ## Use
 
+After `setup.sh` has run once, you can just double-click the `downloader` file
+in this folder and follow the instructions (it opens a Terminal window, asks
+what you want and for the link). Or do the below in Terminal:
+
 ```
 ./downloader
 ```
