@@ -1,6 +1,6 @@
 # youtube-stem-pipeline
 
-> It's mainly for myself to download stuff and source-separate faster, but I'd like to share it with people. The description below sounds like AI cuz it is
+> It's mainly for myself to download stuff and source-separate faster, but I'd like to share it with people. The description below sounds like it's written by AI cuz it is
 
 Paste a YouTube link, get the song as a `.wav` **plus a vocals stem and an
 instrumental stem**, separated locally on your Mac's GPU in about a minute.
